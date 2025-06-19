@@ -1,6 +1,7 @@
 # LinkedIn-Job-Trend-analysis
 
 LinkedIn Job Market Analyzer
+
 *A Python-powered tool that scrapes and analyzes LinkedIn job postings to reveal 2024’s most in-demand skills, geographic trends, and role-specific requirements.*
 
 🔍 What This Project Does
